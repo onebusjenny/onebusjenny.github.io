@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "rake routes is my best friend"
-date:       2020-02-05 08:25:48 +0000
+date:       2020-02-05 03:25:48 -0500
 permalink:  rake_routes_is_my_best_friend
 ---
 
